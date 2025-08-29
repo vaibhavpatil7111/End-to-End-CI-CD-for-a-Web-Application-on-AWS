@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+.terraform/
+
+# IDE files
+.vscode/
+.idea/
+
+# Docker
+*.log
